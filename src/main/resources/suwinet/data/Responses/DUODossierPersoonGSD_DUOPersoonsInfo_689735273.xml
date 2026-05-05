@@ -79,8 +79,8 @@
             </InhoudResultaatOpleidingDuo>
             <ResultaatExamen>
                 <!-- Iets eerder dan bij Nora -->
-                <DatResultaatExamen>19980701</DatResultaatExamen>
                 <CdResultaatExamen>G</CdResultaatExamen>
+                <DatResultaatExamen>19980701</DatResultaatExamen>
             </ResultaatExamen>
         </ResultaatOpleidingGeregistrDuo>
 
@@ -95,8 +95,8 @@
                 <CdNiveauOpleidingDuo>VO-VMBO-BB</CdNiveauOpleidingDuo>
             </InhoudResultaatOpleidingDuo>
             <ResultaatExamen>
-                <DatResultaatExamen>20000715</DatResultaatExamen>
                 <CdResultaatExamen>G</CdResultaatExamen>
+                <DatResultaatExamen>20000715</DatResultaatExamen>
             </ResultaatExamen>
         </ResultaatOpleidingGeregistrDuo>
 
@@ -111,8 +111,8 @@
                 <CdNiveauOpleidingDuo>MBO-4</CdNiveauOpleidingDuo>
             </InhoudResultaatOpleidingDuo>
             <ResultaatExamen>
-                <DatResultaatExamen>20040630</DatResultaatExamen>
                 <CdResultaatExamen>G</CdResultaatExamen>
+                <DatResultaatExamen>20040630</DatResultaatExamen>
             </ResultaatExamen>
         </ResultaatOpleidingGeregistrDuo>
 
